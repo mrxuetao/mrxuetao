@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrxuetao
+- 👋 Hi, I’m Xue Tao @mrxuetao
 - 👀 I’m interested in Networking
 - 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on Networking
